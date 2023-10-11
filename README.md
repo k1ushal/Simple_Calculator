@@ -1,10 +1,9 @@
 # Simple_Calculator
 This is a Simple calculator program written in C language. Its just a timepass practice.
 
-
+<pre>
 
 #include <stdio.h>
-<pre>
 int main()
 {
 	printf("Simple Calculator \n You can only do mathematical operations with 2 numbers only,\n such as 6-2 (Don't enter spaces) \n (Addition, Subtraction, Multiply and Divide are supported) \nCreator : https://github.com/k1ushal/\n \n \n");
